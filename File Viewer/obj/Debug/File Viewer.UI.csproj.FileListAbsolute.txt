@@ -1,0 +1,39 @@
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\obj\Debug\File Viewer.UI.csprojAssemblyReference.cache
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\obj\Debug\App.g.cs
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\obj\Debug\File Viewer.UI_MarkupCompile.cache
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\bin\Debug\File Viewer.UI.exe.config
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\bin\Debug\File Viewer.UI.exe
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\bin\Debug\File Viewer.UI.pdb
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\bin\Debug\Autofac.dll
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\bin\Debug\EntityFramework.dll
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\bin\Debug\File Viewer.Model.dll
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\bin\Debug\System.Buffers.dll
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\bin\Debug\System.Memory.dll
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\bin\Debug\File Viewer.Model.pdb
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\bin\Debug\File Viewer.Model.dll.config
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\bin\Debug\Autofac.pdb
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\bin\Debug\Autofac.xml
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\bin\Debug\EntityFramework.xml
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\bin\Debug\System.Buffers.xml
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\bin\Debug\System.Memory.xml
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\obj\Debug\MainWindow.baml
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\obj\Debug\MainWindow.g.cs
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\obj\Debug\File Viewer.UI.g.resources
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\obj\Debug\File_Viewer.UI.Properties.Resources.resources
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\obj\Debug\File Viewer.UI.csproj.GenerateResource.cache
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\obj\Debug\File Viewer.UI.csproj.CoreCompileInputs.cache
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\obj\Debug\File Viewer.UI.csproj.CopyComplete
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\obj\Debug\File Viewer.UI.exe
+C:\Users\bjsv01\Desktop\File Viewer\File Viewer\obj\Debug\File Viewer.UI.pdb
