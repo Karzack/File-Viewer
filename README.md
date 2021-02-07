@@ -13,10 +13,13 @@ Lägg till-knappen öppnar en ny del i programmet där man kan lägga till en ny
 
 Ta bort-knappen raderar den markerade noden i trädet och alla dess barn. Root-noden kan inte tas bort och informerar användaren att hen försöker ta bort roten ifall detta scenario skulle hända.
 
-Demo träd-knappen skapar samtliga noder enligt den givna strängen i instruktionerna. Efter dessa noder är tillagda i trädet plockas denna knappen bort för att inte riskera dubletter bland noderna.
+Demo träd-knappen skapar samtliga noder enligt den givna strängen i instruktionerna. Strängen behandlas som ett JSON-objekt. Efter dessa noder är tillagda i trädet plockas denna knappen bort för att inte riskera dubletter bland noderna.
 
 # Milstolpar i uppgiften
 Jag känner mig ganska bekväm med att uppnå två av de angivna milstolparna, vilket är öppna/stäng mapparna samt lägg till/ändra/ta bort. Byte mellan visualiseringar känner jag att det inte fungerar speciellt bra med den strukturen jag har använt mig av och Unit-tester är inte något jag är speciellt kunnig i (ÄNNU, det ligger på min planerade inlärningslista).
+
+# Om jag skulle utöka programmet?
+Detta programmet är genomfört enligt instruktionerna i uppgiften och därav är vissa, enligt mig, användbara funktioner utöver efterfrågan inte tillgängliga. Fortsatt arbete på programmet  skulle jag lägga till en filläsare/skrivare för att kunna spara trädet och öppna samma träd vid en ny session av programmet samt även läsa in JSON-filer som ligger på hårddisken och lägga till dess innehåll. Jag skulle även utöka visning av filerna som finns med innehåll eller bildvisning, samt spara dessa som fysiska filer på hårddisken. Den visuella stylen är också väldigt begränsad för att inte kladda ner för mycket, men jag hade uppdaterat den övergripande stylen på fönstret.
 
 # Externa verktyg
 Dessa externa verktygen har jag använt:
